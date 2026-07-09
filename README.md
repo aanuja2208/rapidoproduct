@@ -2,8 +2,8 @@
 
 A product case study and MVP prototype for helping frequent Rapido riders book repeated trips faster by saving route-level context.
 
-Lovable Live Prototype: https://sorted-paytm.lovable.app
-Detailed Case Study: rapido-youth-mobility-case-study.md
+Lovable Live Prototype: https://route-rapido.lovable.app
+Detailed Case Study: rapido-youth-mobility-case-study (1).md
 
 ---
 
